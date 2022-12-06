@@ -25,7 +25,7 @@ const REI = (O, N, I) => {
               GitHub: "REIONI"
             `}, 
     Link-REI-ONI: {`
-                  YouTube: "youtube.com/channel/UCD6aGiYn_ZZl5hXQE6WvpRA",
+                  YouTube: "https://www.youtube.com/watch?v=6a9HmZWOlP4&t=52s",
                   WhatsApp: "https://wa.me/5518997900953",
                   Instagram: "https://www.instagram.com/hector_pr.devolper/",
                   GitHub: "https://github.com/reioni"
@@ -35,7 +35,7 @@ const REI = (O, N, I) => {
 ```
 
 ## REI-ONI
-[![YouTube](https://img.icons8.com/fluent/40/000000/youtube-play.png)](youtube.com/channel/UCD6aGiYn_ZZl5hXQE6WvpRA) 
+[![YouTube](https://img.icons8.com/fluent/40/000000/youtube-play.png)](https://www.youtube.com/watch?v=6a9HmZWOlP4&t=52s) 
 [![WhatsApp](https://img.icons8.com/fluent/40/000000/whatsapp.png)](https://api.whatsapp.com/send?phone=5518997900953&text=oi+oni)
 [![Instagram](https://img.icons8.com/fluent/40/000000/instagram-new.png)](https://www.instagram.com/hector_pr.devolper/)
 [![GitHub](https://img.icons8.com/fluent/40/000000/github.png)](https://github.com/reioni)
